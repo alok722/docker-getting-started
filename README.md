@@ -194,7 +194,7 @@ $ docker rmi $(docker images -a -q)
 $ docker container run -d -p 80:80 --name nginx nginx
 ```
 
-<img src="./assets/port-mapping.png" alt="Port mapping" />
+<img src="./assets/portmapping.png" alt="Port mapping" />
 
 #### APACHE:
 
@@ -359,4 +359,4 @@ docker-compose down
 
 To Be Continued...
 
-[reference](https://gist.github.com/bradtraversy/89fad226dc058a41b596d586022a9bd3)
+[reference: more at](https://gist.github.com/bradtraversy/89fad226dc058a41b596d586022a9bd3)
